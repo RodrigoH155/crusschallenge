@@ -1,0 +1,24 @@
+crosschallenger1
+size(500,500);
+line(500,500,0,0);
+line(0,500,500,0);
+
+crosschallenger2
+size(500,500);
+line(500,500,0,0);
+line(0,500,500,0);
+line(255,0,0,13000);
+line(0,255,13000,0);
+
+mexico challenge
+size(500,500);
+rectMode(CENTER);
+fill(19, 141, 117);
+rect(20,50,300,896);
+fill(240, 243, 244);
+rect(250,50,250,896);
+fill(209, 28, 47);
+rect(450,50,250,896);
+noFill();
+fill(110, 44, 0)
+ellipse(230,250,80,80)
